@@ -1,1 +1,1 @@
-# Loan-qualification-review
+# 대출 심사 백엔드 애플리케이션
